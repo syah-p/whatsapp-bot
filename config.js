@@ -1,6 +1,6 @@
 export const config = {
-  botName: process.env.BOT_NAME || 'Elaina MD',
-  ownerName: process.env.BOT_OWNER || 'syah-p',
+  botName: process.env.BOT_NAME || 'EVERLAND MD',
+  ownerName: process.env.BOT_OWNER || 'byRaffW!thYou',
   ownerNumber: process.env.BOT_OWNER_NUMBER || '628xxx',
   prefix: process.env.BOT_PREFIX || '.',
   rateLimit: parseInt(process.env.RATE_LIMIT) || 30,
