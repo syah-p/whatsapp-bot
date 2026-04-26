@@ -1,4 +1,4 @@
-# 🤖 Elaina MD - WhatsApp Bot
+# 🤖 EVERLAND MD - WhatsApp Bot
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -6,7 +6,9 @@
 
 ## 📋 Overview
 
-**Elaina MD** is a feature-rich WhatsApp bot built with Baileys and Node.js. It includes **100+ commands** across multiple categories including downloads, search, tools, stickers, media editing, fun, admin controls, and more.
+**EVERLAND MD** is a feature-rich WhatsApp bot built with Baileys and Node.js. It includes **100+ commands** across multiple categories including downloads, search, tools, stickers, media editing, fun, admin controls, and more.
+
+**Owner**: byRaffW!thYou
 
 ### ✨ Key Features
 
@@ -55,8 +57,8 @@ cp .env.example .env
 Edit `.env` with your settings:
 
 ```env
-BOT_NAME=Elaina MD
-BOT_OWNER=syah-p
+BOT_NAME=EVERLAND MD
+BOT_OWNER=byRaffW!thYou
 BOT_PREFIX=.
 BOT_OWNER_NUMBER=628xxx
 RATE_LIMIT=30
@@ -308,12 +310,12 @@ Edit `config.js` to customize:
 
 ```javascript
 export const config = {
-  botName: 'Elaina MD',           // Bot name
-  ownerName: 'syah-p',            // Owner name
-  ownerNumber: '628xxx',          // Owner number
-  prefix: '.',                     // Command prefix
-  rateLimit: 30,                   // Commands per second
-  debug: false,                    // Debug mode
+  botName: 'EVERLAND MD',           // Bot name
+  ownerName: 'byRaffW!thYou',       // Owner name
+  ownerNumber: '628xxx',             // Owner number
+  prefix: '.',                       // Command prefix
+  rateLimit: 30,                     // Commands per second
+  debug: false,                      // Debug mode
 };
 ```
 
@@ -415,7 +417,7 @@ Contributions are welcome! Please:
 
 ## 🎉 Credits
 
-- **Bot Author**: syah-p
+- **Bot Author**: byRaffW!thYou
 - **Base Framework**: Baileys
 - **Contributors**: Community
 
@@ -434,6 +436,6 @@ Contributions are welcome! Please:
 
 ---
 
-**Made with ❤️ by syah-p**
+**Made with ❤️ by byRaffW!thYou**
 
-*Last Updated: April 2026*
+*EVERLAND MD - April 2026*
