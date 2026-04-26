@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/
+session/
+*.log
+.DS_Store
+credentials.json
+qr.png
+database/
